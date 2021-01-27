@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AwesomeIbex&count_private=true)](https://github.com/AwesomeIbex/github-readme-stats)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AwesomeIbex&count_private=true&show_icons=true)
