@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on [bots, spotify importer and a better redesign of the AWS UI - Tasky]
 
-🌱 I’m currently learning IoT architecture
+🌱 I’m currently learning IoT architecture and considering some private blockchain projects too!
 
 <!--
 **AwesomeIbex/AwesomeIbex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
