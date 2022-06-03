@@ -13,8 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-YAML   15 mins         ████████████████████████▓   98.34 %
-TOML   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
