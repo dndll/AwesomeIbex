@@ -13,7 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+YAML             1 hr 12 mins    █████████████░░░░░░░░░░░░   52.65 %
+TOML             38 mins         ███████░░░░░░░░░░░░░░░░░░   28.26 %
+Rust             20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 %
+GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+AUTO_DETECTED    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Markdown         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->
