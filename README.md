@@ -2,7 +2,7 @@
 
 # Music
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=na5blcw6x0jzl3k1m6uxyyk3y&cover_image=true&theme=default&bar_color=276524&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001038.a8ac90bcc8c443628d9761c59fc860a8.0957)](https://github.com/rayriffy/apple-music-github-profile)
 
 # Metrics
 
