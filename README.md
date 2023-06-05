@@ -1,6 +1,6 @@
 # Yo
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=Hel++l+o+wo+o+++r+l+++++++++d;Rust;Substrate;Dust;Guts)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=Hel++l+o+wo+o+++r+l+++++++++d;Rust;Dust;Guts)](https://git.io/typing-svg)
 
 # Music
 
